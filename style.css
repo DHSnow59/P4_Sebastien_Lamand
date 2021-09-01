@@ -736,6 +736,7 @@ h4 {
 }
 
 .black {
+    font-weight: bold;
     color: black!important;
 }
 
