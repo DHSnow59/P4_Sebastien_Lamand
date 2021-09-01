@@ -2330,6 +2330,8 @@ pre code {
         width: 41.66666667%
     }
     .col-sm-4 {
+        color: black;
+        font-weight: bold;
         width: 33.33333333%
     }
     .col-sm-3 {
